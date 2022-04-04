@@ -76,6 +76,7 @@ our Metaverse to cater to a bigger audience as well as kids can also manage and 
             <h1>Autolysis</h1>
             <p>
             Autolysis is an Analytics application for Digital assets created for Web 3.0 application. Our application will be able to analyze share information on different metrics of its performance in the market and help consumers to better understand the Market of digital assets as well as the end use to their assets . We will also be using these metrics to better evaluate Digital assets with real world products or utility . This is help consumers understand what is it that they are buying and if it has a utility or a if it’s a collector’s item.
+            This is to help consumers understand what is it that they are buying and if it has a utility or if it’s a collector’s item.
             </p>
           </div>
 
